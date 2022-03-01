@@ -1,5 +1,17 @@
 ![Screen Shot 2022-02-28 at 6 38 03 PM](https://user-images.githubusercontent.com/52471084/156077204-b5875e76-17de-45ab-9e34-20ac473d5460.png)
 
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
+
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
+
 Message ME
 
 # <p align=”center”> Hi there, I'm Keil 👋 </p>
