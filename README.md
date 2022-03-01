@@ -6,6 +6,10 @@
 Hi there, I'm <a href="https://keilmart.github.io/profile" target="_blank" rel="noreferrer">Keil</a> 👋
 </h3>
 
+### <a href="mailto:keilwmartin@gmail.com">Lets Talk 🤝</a>
+
+href="mailto:keilwmartin@gmail.com"
+
 <h2 align="center">
 Im a Electrical Engineering Technologist turned Front End Dev from Toronto 🇨🇦.
 </h2> 
