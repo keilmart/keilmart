@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://keilmart.github.io/profile" target="_blank" rel="
 Im a Electrical Engineering Technologist turned Front End Dev from Toronto 🇨🇦.
 </h2> 
 
-## 🔭 I'm Currently Learning / Improving
+### 🔭 I'm Currently Learning / Improving
 
 - TypeScript / NodeJs
 - Vanilla JS (For those blazing load times)
