@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://keilmart.github.io/profile" target="_blank" rel="
 </h3>
 
 <h2 align="center">
-Hi, I'm Keil Martin, a Frontend Dev from Toronto 🇨🇦.
+Im a Frontend Dev from Toronto 🇨🇦.
 </h2> 
 
 ## Tech Skills 💾
