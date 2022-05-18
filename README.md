@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://www.keilmart.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52471084/156077204-b5875e76-17de-45ab-9e34-20ac473d5460.png" alt="my banner"></a>
+  <a href="https://www.keilmart.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52471084/169123615-d0732e1f-4998-400a-84d2-2dd736685816.png" alt="my banner"></a>
 </p>
-
 
 <h3 align="center">
 Hi there, I'm <a href="https://keilmart.github.io/profile" target="_blank" rel="noreferrer">Keil</a> 👋
