@@ -13,7 +13,8 @@ Im a Electrical Engineering Technologist turned Front End Dev from Toronto 🇨�
 ### 🔭 I'm Currently Learning / Improving
 
 - TypeScript / NodeJs
-- Vanilla JS (For those blazing load times)
+- React Native
+- Pratcing my Vanilla JS (For those blazing load times)
 - Startup Idea in the hospitality industry
 - Freelancing for a variety of clients
 
