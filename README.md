@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.keilmart.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/52471084/169126222-d14124dc-1792-4e96-bef0-aead735ab410.png" alt="my banner"></a>
+  <a href="https://www.keilmart.com" target="_blank" rel="noreferrer"><img src="https://github.com/keilmart/keilmart/blob/c11f2bddb2833a6a4af4f76cb17d2292cd5bc5fe/Screen%20Shot%202022-10-15%20at%208.02.32%20PM.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
